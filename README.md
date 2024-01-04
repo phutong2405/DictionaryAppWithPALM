@@ -46,7 +46,7 @@ There are five bottom sheets:
 - Item Detail Sheet:
   - Header with the title (the word), with Favorite Button (click to add to Favorite List).
   - ListView: showing the content, meanings, examples.
-  - Play Sounds Button (Tap to play sound - In progressing), Ask AI Button (Tap to ask assistant about the word), Share Button (Tap to share - In progressing).
+  - Play Sounds Button (Tap to play sound - In progressing), Ask AI Button (Tap to ask assistant about the word), Share Button (Tap to share ).
 
 ---
 
