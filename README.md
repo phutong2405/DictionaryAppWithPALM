@@ -1,7 +1,7 @@
-# Dictionary App With Google PALM (Chat Assistance)
+# Dictionary App With Google PALM (Chat Assistant)
 
 This is my very first application - build by Flutter (Bloc).
-I have build an app for looking up words, helping people to look up and chat to an assistance to ask things. With a nice and user friendly UX/UI.
+I have build an app for looking up words, helping people to look up and chat to an assistant to ask things. With a nice and user friendly UX/UI.
 
 ---
 
